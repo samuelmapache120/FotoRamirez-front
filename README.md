@@ -1,2 +1,3 @@
 # FotoRamirez-front
-A web page for my parents Web Page
+A web page for my parents.
+
